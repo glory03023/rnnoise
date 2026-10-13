@@ -7,4 +7,3 @@ src/rnnoise_data.c
 CMakeUserPresets.json
 .vscode/
 sample_audios/
-third_partiy/
